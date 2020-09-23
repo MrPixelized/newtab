@@ -23,8 +23,10 @@ h2 {
 }
 
 .box {
+	vertical-align: top;
 	display: inline-block;
 	margin: 2em;
+
 	height: 16em;
 	width: 12em;
 
